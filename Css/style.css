@@ -1,0 +1,52 @@
+*{
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+}
+body{
+  background-color: pink;
+  text-align:center ;
+ 
+}
+.container{
+  background-color:rgb(255, 138, 157);
+color: black;
+ width:60% ;
+ margin:10% auto;
+ padding: 15px;
+ border-radius: 25px;
+}
+h1{
+  font-size: 55px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+form{
+  margin-top: 35px;
+}
+label,input{
+  display: block;
+  width: 80%;
+  margin: auto;
+  padding:5px ;
+}
+input{
+  background-color: pink;
+}
+label{
+  font-size:23px ;
+}
+p{
+ font-size: 18px;
+ margin: 10px 0px;
+}
+a{
+  color:white;
+  text-decoration-line: none;
+  text-transform: unset;
+}
+#button{
+  margin-top: 18px;
+  width: 30%;
+
+}
